@@ -35,5 +35,5 @@ There are 2 ways that you can fork or contribute this project:
 
 ### License
 
-MIT  
+BSD
 Copyright (c) 2016 Hux
